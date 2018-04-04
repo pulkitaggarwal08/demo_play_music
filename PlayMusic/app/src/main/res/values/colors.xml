@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="glass">#33fafafa</color>
+    <color name="dark">#ff3a3a3a</color>
+    <color name="black">#000</color>
+    <color name="orange">#DE6721</color>
+    <color name="dark_orange">#DE6721</color>
+    <color name="semi_orange">#98CD4C01</color>
+    <color name="grey">#eeeeee</color>
+    <color name="blue">#1ab3ff</color>
+    <color name="dark_transparency">#9a000000</color>
+    <color name="white">#FFF</color>
+    <color name="light_grey">#bebebe</color>
+    <color name="semi_transparent">#95ffffff</color>
+</resources>

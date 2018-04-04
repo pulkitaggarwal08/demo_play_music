@@ -1,0 +1,32 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_item_listen_now"
+            android:icon="@drawable/music_image"
+            android:title="Listen now" />
+
+        <item
+            android:id="@+id/nav_item_music_library"
+            android:icon="@drawable/ic_drawer_mymusiclibrary"
+            android:title="Music library" />
+
+
+    </group>
+
+    <group android:id="@+id/group_settings_id">
+
+        <item
+            android:id="@+id/nav_item_settings"
+            android:title="Settings" />
+
+        <item
+            android:id="@+id/nav_item_help"
+            android:title="Help and feedback" />
+
+    </group>
+
+
+</menu>
